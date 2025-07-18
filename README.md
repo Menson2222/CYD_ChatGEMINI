@@ -1,5 +1,5 @@
 # LGVL_3.5---GEMINI
-##Design By MENSON_Huynh Manh Sang
+#Design By MENSON_Huynh Manh Sang#
 ## 🎬 Video demo
 
  <img width="414" height="598" alt="image" src="https://github.com/user-attachments/assets/c2970db4-8e09-41ec-a861-a066521759c5" />
